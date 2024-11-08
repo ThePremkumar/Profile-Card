@@ -27,7 +27,6 @@ html {
 body {
   font: 1.5rem "Nunito", sans-serif;
   min-height: 100vh;
-
   background-color: #475569;
   background-image: radial-gradient(whitesmoke, #2f4667);
   display: flex;
@@ -130,6 +129,10 @@ a:hover {
 }
 .pk a:hover {
   color: goldenrod;
+}
+
+#profile2{
+  aspect-ratio: 1/0.7;
 }
 
 .hi {
